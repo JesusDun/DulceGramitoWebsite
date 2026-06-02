@@ -3,6 +3,7 @@ $host = "46.28.42.226";
 $user = "u760464709_23005283_usr";
 $password = "rnUxcf3P#a";
 $dbname = "u760464709_23005283_bd";
+$port = "3306";
 
 try {
     $conn = new PDO("mysql:host=$host;dbname=$dbname;charset=utf8", $user, $password);
