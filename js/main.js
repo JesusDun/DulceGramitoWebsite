@@ -83,7 +83,7 @@
                 let html = `
                 <div class="testimonial-item bg-dark text-white border-inner p-4">
                     <div class="d-flex align-items-center mb-3">
-                        <img class="img-fluid flex-shrink-0" src="img/testimonial-1.jpg" style="width: 60px; height: 60px; border-radius: 50%;">
+                        <img class="img-fluid flex-shrink-0" src="img/testimonial-1.png" style="width: 60px; height: 60px; border-radius: 50%;">
                         <div class="ps-3">
                             <h4 class="text-primary text-uppercase mb-1">${item.nombre}</h4>
                             <span>Cliente</span>
